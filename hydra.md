@@ -20,6 +20,6 @@ Attempting to login into to a remote system (as root) using a custom saved passw
 
 - hydra -l root -P passwords.txt -t 6 ssh://192.168.0.185
 
-Attempting to login into to a remote system using a custom login list and using a custom saved password list (note the upper case "L")
+Attempting to login into to a remote system using a custom login list and using a custom saved password list (note the upper case "L"). In this case the two text files are located in the current path (/usr/desktop/)
 
 - hydra -L login.txt -P passwords.txt -t 6 ssh://192.168.0.185
