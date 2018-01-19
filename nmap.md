@@ -3,6 +3,12 @@
 nmap is network security scanner that we can use to map the network. In the cases in CTF's where we dont know the target IP address we will have 
 to go scanning the network. 
 
+#### Source
+
+nmap is built into Kali but the source is: 
+
+- https://nmap.org/
+
 #### Using nmap
 
 With nmap there are so many switches and ways to run about this. Lets start off with a quick scan
