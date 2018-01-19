@@ -11,7 +11,7 @@ Lets run through the start process
 1) Make sure the VM is setup correctly (ie it has an IP address)
 2) What does the login screen show you? (username, IP address, OS build number etc)
 
-<b> Onto Kali: </b>
+** Onto Kali: **
 
 Lets assume we dont know the IP address of the host we are trying to access (in real-life its not so easy as looking at the terminal).
 
